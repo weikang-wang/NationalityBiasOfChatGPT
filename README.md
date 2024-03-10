@@ -7,8 +7,8 @@ Code repo for COLING-LREC'24 paper "Quite Good, but Not Enough: Nationality Bias
 
 ## Data 
 
-The data uesd in the paper are Text-en.zip and Text-zh.zip
+The data uesd in the paper are ` Text-en.zip ` and ` Text-zh.zip `
 
 ## Result
 
-The result in the paper which are Evaluation Results.xlsx
+The result in the paper which are ` Evaluation Results.xlsx `
